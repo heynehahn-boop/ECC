@@ -1,0 +1,14 @@
+{
+  "appId": "com.routine.habits",
+  "appName": "Routine",
+  "webDir": "dist",
+  "ios": {
+    "contentInset": "never",
+    "backgroundColor": "#F4F5F2"
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "iconColor": "#1E9E5A"
+    }
+  }
+}
